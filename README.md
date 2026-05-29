@@ -1,37 +1,48 @@
-<h1 align="center">Tuana Nil</h1>
+# Hi, I'm Tuana Nil Çağrıbay 👋
 
-<p align="center">
-Digital Forensics Engineering Student <br>
-Cybersecurity • Python • Linux
-</p>
+## Digital Forensics Student | Cybersecurity Enthusiast
 
----
+I am a second-year Digital Forensics student at Fırat University.
 
-## About Me
-
-- 2nd year Digital Forensics Engineering student
-- Interested in Cybersecurity & DFIR
-- Building security-focused Python/C++ projects
-- Currently improving Linux, networking and malware analysis skills
+I am currently improving myself in cybersecurity, Linux, networking, and Python development. I enjoy building small projects, analyzing logs, and learning more about security technologies.
 
 ---
 
-## Technologies
+## Interests
+- Cybersecurity
+- Digital Forensics
+- Linux
+- SOC Operations
+- Log Analysis
+- Network Security
 
-```txt
-Python • C++ • Linux • Git • GitHub • Networking
+---
 
-<!--
-**tuananil/tuananil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies & Tools
+- Python
+- JavaScript
+- HTML/CSS
+- Linux
+- Git & GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Log Analyzer Tool
+- Quizlet Clone
+- JavaScript Applications
+- Automation Projects
+
+---
+
+## Currently Learning
+- Network Security
+- SIEM Fundamentals
+- Linux Administration
+- Cybersecurity Labs
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/tuananil
+

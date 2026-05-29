@@ -1,36 +1,33 @@
 # Hi, I'm Tuana Nil Çağrıbay 👋
 
-## Digital Forensics Student | Cybersecurity Enthusiast
+## Digital Forensics Student | Aspiring SOC Analyst
 
-I am a second-year Digital Forensics student at Fırat University.
+Second-year Digital Forensics student at Fırat University.
 
-I am currently improving myself in cybersecurity, Linux, networking, and Python development. I enjoy building small projects, analyzing logs, and learning more about security technologies.
+Focused on cybersecurity, Linux, networking, and Python.  
+Interested in log analysis, SOC operations, and security fundamentals.
+
+---
+
+## Skills
+- Python
+- Linux
+- JavaScript
+- Git & GitHub
 
 ---
 
 ## Interests
 - Cybersecurity
 - Digital Forensics
-- Linux
-- SOC Operations
+- SOC Analysis
 - Log Analysis
-- Network Security
-
----
-
-## Technologies & Tools
-- Python
-- JavaScript
-- HTML/CSS
-- Linux
-- Git & GitHub
 
 ---
 
 ## Projects
 - Log Analyzer Tool
 - Quizlet Clone
-- JavaScript Applications
 - Automation Projects
 
 ---
@@ -39,10 +36,6 @@ I am currently improving myself in cybersecurity, Linux, networking, and Python 
 - Network Security
 - SIEM Fundamentals
 - Linux Administration
-- Cybersecurity Labs
 
 ---
-
-## Connect With Me
-- GitHub: https://github.com/tuananil
 
